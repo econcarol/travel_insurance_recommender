@@ -1,0 +1,32 @@
+[
+    {
+        "plan_id": 1,
+        "plan_name": "Plan A",
+        "plan_type": "medical",
+        "plan_text": "Covers medical emergencies up to $100,000. Includes COVID-19 coverage. No pre-existing conditions. For ages under 65. Worldwide except USA."
+    },
+    {
+        "plan_id": 2,
+        "plan_name": "Plan B",
+        "plan_type": "medical",
+        "plan_text": "Offers full coverage including evacuation and COVID. Covers pre-existing conditions with extra premium. Valid worldwide including USA. Best for senior travelers."
+    },
+    {
+        "plan_id": 3,
+        "plan_name": "Plan C",
+        "plan_type": "medical",
+        "plan_text": "Budget plan for adventure travel. Covers injuries, but not chronic conditions. Max age: 50. Covers Asia and South America only."
+    },
+    {
+        "plan_id": 4,
+        "plan_name": "Plan D",
+        "plan_type": "medical",
+        "plan_text": "Designed for students studying abroad. Covers routine checkups, mental health support, and emergencies. No USA coverage. Ages 18–30 only. Europe and Asia regions."
+    },
+    {
+        "plan_id": 5,
+        "plan_name": "Plan E",
+        "plan_type": "medical",
+        "plan_text": "Premium global plan with unlimited medical coverage. Includes dental, maternity, and cancer treatment. Covers all ages. Valid worldwide including USA."
+    }
+]
