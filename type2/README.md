@@ -10,8 +10,12 @@ Approach
 - Chat with the user and recommend best plan based on the chat
 
 Tech Stack
-- Vector database: FAISS
-- Embedding model: all-mpnet-base-v2
-- LLM: gpt-3.5-turbo
 - Agent framework: LangGraph
+- LLM: gpt-3.5-turbo
+- Embedding model: all-mpnet-base-v2
+- Vector database: FAISS
 - UI: Gradio
+
+Architecture Diagram  
+
+<img src="img/Type2 Chatbot Architecture.png"/>
